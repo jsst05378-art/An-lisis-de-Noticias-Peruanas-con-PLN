@@ -1,4 +1,4 @@
-# 📰 AnalizaPerú — Sistema de Análisis de Noticias Peruanas con PLN
+#  AnalizaPerú — Sistema de Análisis de Noticias Peruanas con PLN
 
 **Proyecto PC3 · Procesamiento de Lenguaje Natural 2026**
 
